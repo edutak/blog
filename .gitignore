@@ -250,4 +250,7 @@ fabric.properties
 .idea/codestream.xml
 
 ### Python ###
+*.xlsx
+secret/*
+!secret/test.xlsx
 
